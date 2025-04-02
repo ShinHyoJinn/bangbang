@@ -1,7 +1,7 @@
 .menu-container {
   position: absolute;
-  top: 72%;
-  left: 60%;
+  top: 82.5vh;
+  left: 65%;
   transform: translateX(-50%);
   display: flex;
 }

@@ -19,7 +19,7 @@
   }
   
   .main-logo img {
-    width: 100px;
+    width: 120px;
     height: auto;
   }
   
@@ -37,16 +37,4 @@
     font-weight: bold;
     border: none;
     cursor: pointer;
-  }
-  
-  .login-btn {
-    background-color: #FFBF00;
-    color: black;
-    border-radius: 15px 0px 15px 15px;
-  }
-  
-  .signup-btn {
-    background-color: #FFBF00;
-    color: black;
-    border-radius: 15px 15px 15px 0px;
   }
